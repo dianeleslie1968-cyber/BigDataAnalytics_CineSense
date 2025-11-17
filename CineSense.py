@@ -504,8 +504,4 @@ The strategy for developing the solution involved the following steps.
 # 15. Conclusion
 The project successfully demonstrated the development of a Python application for downloading and analyzing YouTube videos using various parallel processing techniques. By utilizing threads and multiprocessing, the overall execution time was significantly reduced compared to the serial approach. By comparing serial and parallel processing methods, significant performance improvements were observed, making it feasible to analyze large volumes of social media video content efficiently. This approach enables CineSense to provide valuable insights to businesses, enhancing their understanding of audience sentiments and emotions.
 
-# 16. Appendix
-**Use of Grammarly**
-
-To ensure the quality and clarity of this project report, I have used grammarly to review and refine the text. Grammarly helped to correct grammatical errors, improve sentence structure, and enhance overall readability.
 """
